@@ -30,6 +30,9 @@ const SOCIAL_ICONS: Record<string, any> = {
                 {city}, {region}
             </span>
             <footer>
+                <div class="print">
+                    {email} • {phone} • {LinkedIn}
+                </div>
                 {
                     email && (
                         <a href={`mailto:${email}`}
@@ -100,6 +103,7 @@ const SOCIAL_ICONS: Record<string, any> = {
         font-weight: 500;
         font-size: 1.1rem;
         text-wrap: balance;
+        /* font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace; */
     }
 
     img {
@@ -140,7 +144,7 @@ const SOCIAL_ICONS: Record<string, any> = {
 
     footer a:hover {
         background: #eee;
-        border: 1px solid #ddd;
+        /* border: 1px solid #ddd; */
     }
  
 </style>
