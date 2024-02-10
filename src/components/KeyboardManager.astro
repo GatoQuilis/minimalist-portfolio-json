@@ -1,11 +1,76 @@
-<footer>
+---
+import { basics } from '@cv'
 
+const { profiles } = basics
+
+const SOCIAL_ICONS: Record<string, string>= {
+    GitHub: `🤷‍♂️`,
+    LinkedIn: ``,
+    X: ``,
+}
+
+const profilesInfo = profiles.map(({ network, url }) => {
+    const icon = SOCIAL_ICONS[network]
+    const firstLetter = network[0].toUpperCase()
+
+    return {
+        section: 'Social',
+        title: network,
+        url,
+        icon,
+        hotkey: `crtl+${firstLetter}`
+    }
+})
+---
+<footer>
+    Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
 </footer>
 
-<script>
+<ninja-keys></ninja-keys>
 
+<script>
+  import "ninja-keys";
+
+  const ninja = document.querySelector("ninja-keys");
+
+  if (ninja != null) {
+    ninja.data = [
+      {
+        id: "print",
+        title: "🖨️ Imprimir",
+        hotkey: "ctrl+P",
+        //   icon: 'apps',
+        section: "Acciones",
+        handler: () => {
+          window.print();
+        },
+      },
+    ];
+  }
 </script>
 
 <style>
-    
+  @media print {
+    ninja-keys {
+      display: none !important;
+    }
+  }
+
+  footer {
+    background: #fdfdfd;
+    border-top: 1px solid #eee;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    padding-block: 8px;
+    text-align: center;
+    font-size: 0.85rem;
+  }
+  
+  kbd {
+    background: #eee;
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 12px;
+  }
 </style>
