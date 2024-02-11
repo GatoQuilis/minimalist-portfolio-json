@@ -2,7 +2,7 @@
     "basics": {
       "name": "Franco Díaz Quilis",
       "label": "Backend | Programación Web | Oracle Cloud Infrastructure",
-      "image": "/me.webp",
+      "image": "/public/me.webp",
       "email": "franko_222@hotmail.com",
       "phone": "+5493515570150",
       "url": "https://midu.dev",
@@ -18,7 +18,7 @@
         {
           "network": "LinkedIn",
           "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
+          "url": "https://linkedin.com/in/franco-diaz-quilis"
         },
         {
           "network": "X",
@@ -34,10 +34,10 @@
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
+        "name": "Claro Argentina",
+        "position": "Analista Noc",
         "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
+        "startDate": "2021-08",
         "endDate": null,
         "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
         "highlights": [
