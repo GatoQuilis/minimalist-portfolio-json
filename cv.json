@@ -10,9 +10,9 @@
       "location": {
         "address": "",
         "postalCode": "08820",
-        "city": "el Prat de Llobregat",
-        "countryCode": "ES",
-        "region": "España"
+        "city": "Santa María",
+        "countryCode": "AR",
+        "region": "Argentina 🇦🇷"
       },
       "profiles": [
         {
@@ -39,7 +39,7 @@
         "url": "https://twitch.tv/midudev",
         "startDate": "2021-08",
         "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "summary": "Responsable de monitorear alarmas de tecnologías 2G, 3G, 4G & 5G en los países de Argentina, Uruguay y Paraguay. Herramientas: *Temip & UOC para monitoreo de alarmas en tiempo real. *Remedy Cloud. *Grafana Dashboard Monitoring. *NetAct | Nokia Networks: Sistema de administración de red, que permite el monitoreo, administracion y configuracion de software. *Soporte técnico a personal de campo para el mantenimiento de la red de acceso de telefonía celular AMPS, PCS CDMA y GSM.",
         "highlights": [
           "Started the company"
         ]
