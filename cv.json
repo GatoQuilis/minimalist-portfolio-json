@@ -2,11 +2,11 @@
     "basics": {
       "name": "Franco Díaz Quilis",
       "label": "Backend | Programación Web | Oracle Cloud Infrastructure",
-      "image": "/public/me.webp",
+      "image": "./me.webp",
       "email": "franko_222@hotmail.com",
       "phone": "+5493515570150",
       "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "summary": "Además de mi experiencia en desarrollo web, tengo un gran interés en la innovación tecnológica y el uso de drones. A través del manejo de drones, busco explorar nuevas perspectivas y aplicaciones tecnológicas emocionantes. Soy un colaborador entusiasta que disfruta trabajando en equipo, donde pueda aportar mi creatividad y habilidades técnicas para lograr resultdos excepcionales. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente en el campo de la tecnología. ¡Conectemos y exploremos juntos el futuro de la tecnología y el desarrollo web!",
       "location": {
         "address": "",
         "postalCode": "08820",
@@ -20,11 +20,7 @@
           "username": "midudev",
           "url": "https://linkedin.com/in/franco-diaz-quilis"
         },
-        {
-          "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
-        },
+        
         {
           "network": "GitHub",
           "username": "midudev",
@@ -36,7 +32,7 @@
       {
         "name": "Claro Argentina",
         "position": "Analista Noc",
-        "url": "https://twitch.tv/midudev",
+        "url": "https://www.claro.com.ar/",
         "startDate": "2021-08",
         "endDate": null,
         "summary": "Responsable de monitorear alarmas de tecnologías 2G, 3G, 4G & 5G en los países de Argentina, Uruguay y Paraguay. Herramientas: *Temip & UOC para monitoreo de alarmas en tiempo real. *Remedy Cloud. *Grafana Dashboard Monitoring. *NetAct | Nokia Networks: Sistema de administración de red, que permite el monitoreo, administracion y configuracion de software. *Soporte técnico a personal de campo para el mantenimiento de la red de acceso de telefonía celular AMPS, PCS CDMA y GSM.",
@@ -45,22 +41,52 @@
         ]
       },
       {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "name": "",
+        "position": "Operador CCR | Operaciones",
+        "url": "https://www.claro.com.ar/",
+        "startDate": "2014-01",
+        "endDate": "2021-07",
+        "summary": "Responsable en el monitoreo de alarmas de energía y estados de los servicios 2G, 3G & 4G en equipos movil y fija. Herramientas: ",
         "highlights": [
           "Started the company"
         ]
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "name": "Corcam, Moura y Red Petro",
+        "position": "Empresa de un amigo",
+        "startDate": "2012",
+        "endDate": "2014",
+        "summary": "Mantenimiento de redes, pc y servidores",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Jazzplat S.A (España 🇪🇸)",
+        "position": "Soporte técnico | Avanzado",
+        "startDate": "2009-01",
+        "endDate": "2012-12",
+        "summary": "Soporte y configuraciones en internet, telefono y tv. Atención personalizada de soporte y configuración. Skill Avanzado & Agendamiento. Mantenimiento de VPNs. Manejo de sistemas: Remedy, Access, CRM y manejo de herramientas en telecomunicaciones.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "CDSIA (Lotería de Córdoba)",
+        "position": "Coordinación",
+        "startDate": "2008-01",
+        "endDate": "2019-05",
+        "summary": "Pasantía por la facultad. Tareas de coordinación con técnicos en campo. Cambios de equipos",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Soporte técnico independiente",
+        "position": "Reparación de pc",
+        "startDate": "2005",
+        "endDate": "2021",
+        "summary": "",
         "highlights": [
           "Started the company"
         ]
@@ -77,18 +103,56 @@
         "Awarded 'Volunteer of the Month'"
       ]
     }],
-    "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
+    "education": [
+      {
+      "institution": "Programador Junior",
+      "url": "https://app.aluracursos.com/program/certificate/37cbeff5-c295-4ff7-b552-156d4f01b906",
+      "area": "Oracle + Alura Latam | Programa ONE",
+      "studyType": "",
+      "startDate": "2022-11",
+      "endDate": "2023-06",
+      "score": "",
       "courses": [
         "DB1101 - Basic SQL"
       ]
-    }],
+    },
+    {
+      "institution": "Programador Web Full Stack",
+      "url": "https://www.linkedin.com/in/franco-diaz-quilis/details/education/1635482574923/single-media-viewer/?type=DOCUMENT&profileId=ACoAADUR1ooBM9gmx41YOEwdMn1CdZCcVw9p8rA",
+      "area": "Digital House",
+      "studyType": "",
+      "startDate": "2021-5",
+      "endDate": "2022-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Instituto Universitario Aeronautico",
+      "url": "https://www.iua.edu.ar/",
+      "area": "Ingenieria Informática",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2014",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universidad Blas Pascal",
+      "url": "https://www.ubp.edu.ar/",
+      "area": "Ingenieria Informática",
+      "studyType": "",
+      "startDate": "2005",
+      "endDate": "2009",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
@@ -210,7 +274,7 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Mercado Liebre",
         "isActive": true,
         "description": "Historia interactiva con retos de programación para viajar a Marte",
         "highlights": [
