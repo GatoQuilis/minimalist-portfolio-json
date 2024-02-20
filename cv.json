@@ -5,7 +5,7 @@
       "image": "./me.webp",
       "email": "franko_222@hotmail.com",
       "phone": "+5493515570150",
-      "url": "https://midu.dev",
+      "url": "https://linkedin.com/in/franco-diaz-quilis",
       "summary": "Además de mi experiencia en desarrollo web, tengo un gran interés en la innovación tecnológica y el uso de drones. A través del manejo de drones, busco explorar nuevas perspectivas y aplicaciones tecnológicas emocionantes. Soy un colaborador entusiasta que disfruta trabajando en equipo, donde pueda aportar mi creatividad y habilidades técnicas para lograr resultdos excepcionales. Siempre estoy buscando nuevas oportunidades para aprender y crecer profesionalmente en el campo de la tecnología. ¡Conectemos y exploremos juntos el futuro de la tecnología y el desarrollo web!",
       "location": {
         "address": "",
@@ -17,14 +17,13 @@
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
+          "username": "Franco Diaz Quilis",
           "url": "https://linkedin.com/in/franco-diaz-quilis"
         },
-        
         {
           "network": "GitHub",
           "username": "midudev",
-          "url": "https://github.com/midudev"
+          "url": "https://github.com/GatoQuilis"
         }
       ]
     },
@@ -105,9 +104,9 @@
     }],
     "education": [
       {
-      "institution": "Programador Junior",
+      "institution": "Oracle + Alura Latam | Programa ONE",
       "url": "https://app.aluracursos.com/program/certificate/37cbeff5-c295-4ff7-b552-156d4f01b906",
-      "area": "Oracle + Alura Latam | Programa ONE",
+      "area": "Programador Junior",
       "studyType": "",
       "startDate": "2022-11",
       "endDate": "2023-06",
@@ -117,9 +116,9 @@
       ]
     },
     {
-      "institution": "Programador Web Full Stack",
+      "institution": "Digital House",
       "url": "https://www.linkedin.com/in/franco-diaz-quilis/details/education/1635482574923/single-media-viewer/?type=DOCUMENT&profileId=ACoAADUR1ooBM9gmx41YOEwdMn1CdZCcVw9p8rA",
-      "area": "Digital House",
+      "area": "Programador Web Full Stack",
       "studyType": "",
       "startDate": "2021-5",
       "endDate": "2022-01",
@@ -129,24 +128,24 @@
       ]
     },
     {
-      "institution": "Instituto Universitario Aeronautico",
+      "institution": "Ingenieria Informática",
       "url": "https://www.iua.edu.ar/",
-      "area": "Ingenieria Informática",
+      "area": "Instituto Universitario Aeronautico",
       "studyType": "",
-      "startDate": "2012",
-      "endDate": "2014",
+      "startDate": "2013",
+      "endDate": "2015",
       "score": "",
       "courses": [
         ""
       ]
     },
     {
-      "institution": "Universidad Blas Pascal",
+      "institution": "Ingenieria Informática",
       "url": "https://www.ubp.edu.ar/",
-      "area": "Ingenieria Informática",
+      "area": "Universidad Blas Pascal",
       "studyType": "",
       "startDate": "2005",
-      "endDate": "2009",
+      "endDate": "2011",
       "score": "",
       "courses": [
         ""
@@ -276,64 +275,36 @@
       {
         "name": "Mercado Liebre",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Primer trabajo en curso de Digital House con validaciones en el login",
         "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
+          "e-Commerce",
+          "Portada y validaciones"
         ],
-        "url": "https://mars.codes"
+        "url": "https://mercado-liebre-xey5.onrender.com/",
+        "github": "https://github.com/GatoQuilis/Mercado-Liebre"
       },
       {
-        "name": "AdventJS",
+        "name": "e-Pizzas",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Trabajo final para Digital House (falta el deploy del back)",
         "highlights": [
           "+1 millón de visitas",
           "Multidioma",
-          "JavaScript & TypeScript"
+          "Falta el Back"
         ],
-        "url": "https://adventjs.dev"
+        "url": "https://pizzeria-nvnu.onrender.com/",
+        "github": "https://github.com/GatoQuilis/e-pizza"
       },
       {
-        "name": "Codember",
+        "name": "Portfolio Dev",
         "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "description": "Portfolio en construcción con ayuda de Midudev",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "En desarrollo",
+          "Ayuda de Midudev"
         ],
-        "url": "https://codember.dev"
-      },
-      {
-        "name": "codi.link",
-        "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
-        "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
-        ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": "hhttps://gatoquilis.github.io/porfolio-dev/",
+        "github": "https://github.com/GatoQuilis/porfolio-dev"
       }
     ]
   }
